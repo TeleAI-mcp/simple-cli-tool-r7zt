@@ -1,2 +1,3 @@
-# simple-cli-tool-r7zt
-A command-line tool for modern development workflows
+# Simple Cli Tool R7Zt
+
+A command-line tool for modern development workflows.
